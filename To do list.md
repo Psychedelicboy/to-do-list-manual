@@ -10,7 +10,7 @@ This tutorial shows how to create a to-do list using javascript with a help of H
 
 Before diving into this tutorial, it is advisable that you have a basic understanding of how javascript works, as well as HTML and CSS.
 
-If you think you need to brush up on your front-end skills, please refer to the [MDN Web Docs] (https://developer.mozilla.org/en-US/).
+If you think you need to brush up on your front-end skills, please refer to the [MDN Web Docs](https://developer.mozilla.org/en-US/).
 
 ## Before you begin<a name="before-you-begin"></a>
 
