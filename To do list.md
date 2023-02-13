@@ -56,7 +56,7 @@ Open ***page.html*** in the code editor of your choise.
 
 ```
 
-Let us take a look at what happens here: External CSS is declared in the '<head>' part of the HTML page. The page itself consists of several parts. The first part consists of the header with the input field and the 'Add' button. The second part consists of an empty list to be filled with user input.
+Let us take a look at what happens here: External CSS is declared in the 'head' part of the HTML page. The page itself consists of several parts. The first part consists of the header with the input field and the 'Add' button. The second part consists of an empty list to be filled with user input.
 
 Save the page and open it in the web browser. You should see the header with the text "My To-Do List", an input field and the "Add" button.
 
